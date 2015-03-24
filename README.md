@@ -24,7 +24,7 @@ Faca um clone do projeto, crie um branch e comece a empurrar suas modificaçoes.
 -----
 ### Garagem Hacker Logo (official)
 
-No diretório ologo temos a official logo da garagemhacker em SVG.
+No diretório ologo-explode temos os elementos separados que compoem a logo official da garagemhacker em SVG.
 O objetivo é que qualquer pessoa monte um branch e mude a logo da garagem <i>(preferencialmente no inkscape - sempre mantendo o arquivo em SVG)</i>.
 
 :stuck_out_tongue: Alguns pull-requests interessantes seriam para ter o <i>"hatman" (boneco do logo)</i> com chapéu de Papai-Noel para aplicarmos essa logo nos sites e camisas no Final do Ano e outros temas sasionais como páscoa, ano novo, hallowen etc... 
