@@ -13,9 +13,9 @@ Antes de mais nada, mantenha estes padrões:
   * Imagens, logos sempre em SVG
   * Respeite as camadas das artes
   * Use e abuse de camadas em todos os desenhos
-  * Nomes de camadas sem espaços,simbulos <i>(facilite as coisas)</i>
+  * Nomes de camadas sem espaços,simbolos <i>(facilite as coisas)</i>
   * Use nomes que facam sentido em relação aos objetos nas camadas.
-  * Preferencialente use GIMP ou INKSCAPE
+  * Preferencialmente use GIMP ou INKSCAPE
   * Se nao estiver usando ferramentas abertas envie arquivos somente em SVG ou EPS.
 
 Agora se divirta!
