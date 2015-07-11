@@ -38,6 +38,13 @@ Simmmm.. agora temos Stickers para o telegram voce pode adcionar nossos stickes 
 Submeta mais stickers usando a arte da garagem e do nosso mascote blackman.
 Lembre se for usar PNG expoda a arte em pedacos.
 
+<i>Alguns exemplos:</i>
+
+| Intention|GaragemHacker Sticker | Normal Smile|
+| ------------- | ----------- | ----------- |
+| Espanto | <img alt="espanto face" height="128" width="140" src="https://github.com/Garagem-Hacker/art/blob/master/tg-stickers/espanto/espanto.png" /> |:flushed:<br />
+
+
 -----
 
 #### Sujestões para o <i>"hatman"</i>
